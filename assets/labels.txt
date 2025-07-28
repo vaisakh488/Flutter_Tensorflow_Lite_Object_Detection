@@ -1,0 +1,4 @@
+0 Camel
+1 Falcon
+2 Fox
+3 Snake
